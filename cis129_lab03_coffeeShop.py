@@ -1,5 +1,5 @@
-#Version 1
-#Created by Astra Bavier - Oct 2 2024
+#Version 2
+#Updated by Astra Bavier - Oct 2 2024
 
 #Coffee shop header
 print('***************************************\nMy Coffee and Baked Goods Shop')
